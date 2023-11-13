@@ -1,0 +1,22 @@
+.display-4 {
+    font-size: 100px;
+    font-family: "Nefelibata-Script";
+    font-weight: bold;
+    text-shadow: 1px 1px 10px;
+    /* Sombra con ligero desenfoque */
+  }
+  
+  .lead {
+    font-size: 30px;
+    text-shadow: 1px 1px 10px;
+  }
+  
+ 
+  header.jumbotron {
+    background-image: url("/public/img/gym.svg");
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    padding: 200px 0;
+    border-radius: 0;
+  }
