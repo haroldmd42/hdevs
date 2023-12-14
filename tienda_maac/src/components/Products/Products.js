@@ -83,7 +83,9 @@ const Products = () => {
         <div className="card-video">
           <img className="videos" src="video/banner2.gif"/>
         </div> </a>
+        <br></br>
       </div>
+      
     </>
   );
 };
