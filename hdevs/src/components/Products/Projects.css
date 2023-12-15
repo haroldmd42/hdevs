@@ -1,0 +1,39 @@
+#items-skills{
+    font-size: 400px;
+    text-align: center;
+    align-items: center;
+    color: aliceblue;
+    text-shadow: 2px 2px 14px white;
+}
+.carousel-caption{
+    color: aliceblue;
+}
+#carouselExampleDark{
+    text-align: center;
+    
+
+}
+.description-skills{
+    color: aliceblue;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-size: 18px;
+    
+}
+
+@media screen and (max-width: 992px) {
+}
+
+@media screen and (max-width: 768px) {
+    #items-skills{
+        font-size: 200px;
+        text-align: center;
+        align-items: center;
+        color: aliceblue;
+    }
+    .description-skills{
+        color: aliceblue;
+        margin: 8px 20px 40px 20px
+    }
+  
+}

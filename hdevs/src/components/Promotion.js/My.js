@@ -4,7 +4,7 @@ import App from "./TextAppear";
 const My = () => {
   return (
     <section id="bodies">
-      <section id="about" class="py-5">
+      <section id="about" className="py-5">
         <div className="container">
           <div className="row">
             <div className="col-md-6">
