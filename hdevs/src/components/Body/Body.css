@@ -1,0 +1,28 @@
+.display-4 {
+    font-size: 100px;
+    font-weight: bold;
+    text-shadow: 1px 1px 10px;
+    /* Sombra con ligero desenfoque */
+  }
+  
+  .lead {
+    font-size: 30px;
+    text-shadow: 2px 2px 15px black;
+  }
+  
+ 
+  header.jumbotron {
+    background-image: url("/public/img/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    padding: 200px 0;
+    border-radius: 0;
+  }
+  .icon-sroll{
+    color: #ffffff;
+    font-size: 40px;
+  }
+  .icon-sroll:hover{
+    color: #ffffffe3;
+  }

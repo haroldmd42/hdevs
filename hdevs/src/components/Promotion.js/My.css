@@ -1,0 +1,63 @@
+.py-5 {
+  margin-top: 0;
+  text-align: justify;
+
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.title-animated {
+  color: rgb(255, 255, 255);
+  margin-left: 0;
+  padding-left: 0;
+  text-align: left;
+}
+
+.img-fluid {
+  width: 300px;
+  margin-left: 20px;
+}
+/* Agrega estas reglas a tu hoja de estilos */
+
+.img-fluid {
+  animation: floatingAnimation 3s infinite alternate ease-in-out;
+}
+
+@keyframes floatingAnimation {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-20px);
+  }
+}
+.img-fluid2 {
+  width: 150px;
+}
+.img-fluid2 {
+    animation: floatingAnimation 3s infinite alternate ease-in-out;
+  }
+  
+  @keyframes floatingAnimation {
+    from {
+      transform: translateY(0);
+    }
+    to {
+      transform: translateY(-20px);
+    }
+  }
+
+@media screen and (max-width: 992px) {
+}
+
+@media screen and (max-width: 768px) {
+  .img-fluid {
+    width: 200px;
+    margin-left: 0px;
+  }
+  .img-fluid2 {
+    width: 100px;
+  }
+}
+
+/* Resto del código... */
