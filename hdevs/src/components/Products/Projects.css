@@ -1,5 +1,5 @@
 #items-skills{
-    font-size: 400px;
+    font-size: 350px;
     text-align: center;
     align-items: center;
     color: aliceblue;
@@ -12,6 +12,13 @@
     text-align: center;
     
 
+}
+.progress{
+    box-shadow: 1px 1px 14px white;
+}
+.progress-bar{
+    background-color: rgb(37, 18, 73);
+   
 }
 .description-skills{
     color: aliceblue;
