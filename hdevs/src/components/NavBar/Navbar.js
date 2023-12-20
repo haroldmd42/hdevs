@@ -14,7 +14,7 @@ const NavBar = () => {
           <div className="collapse navbar-collapse" id="navbarNav" style={{ color: "white"}}>
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
-                <a className="nav-link fw-lighter" href="#about" style={{ color: "white", fontSize: "18px" }}> Proyectos </a>
+                <a className="nav-link fw-lighter" href="#works" style={{ color: "white", fontSize: "18px" }}> Proyectos </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link fw-lighter" href="#projects" style={{ color: "white", fontSize: "18px" }} >Información</a>

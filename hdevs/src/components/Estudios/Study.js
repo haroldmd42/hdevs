@@ -21,7 +21,7 @@ const Study = () => {
                                         programación con énfasis
                                         en desarrollo de
                                         aplicaciones web</h5>
-                                    <p>Graduado como Desarrollador Web Full Stack - UNAB</p>
+                                    <p>Desarrollador Web Full Stack - UNAB</p>
                                 </div>
                             </div>
                         </div>
@@ -42,8 +42,6 @@ const Study = () => {
                     </div>
                 </div>
             </div>
-
-
         </section>
     )
 
