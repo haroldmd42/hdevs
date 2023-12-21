@@ -17,10 +17,10 @@ const NavBar = () => {
                 <a className="nav-link fw-lighter" href="#works" style={{ color: "white", fontSize: "18px" }}> Proyectos </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link fw-lighter" href="#projects" style={{ color: "white", fontSize: "18px" }} >Información</a>
+                <a className="nav-link fw-lighter" href="#informacion" style={{ color: "white", fontSize: "18px" }} >Información</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link fw-lighter" href="#contact" style={{ color: "white", fontSize: "18px" }} >Contacto</a>
+                <a className="nav-link fw-lighter" href="#contactame" style={{ color: "white", fontSize: "18px" }} >Contacto</a>
               </li>
             </ul>
           </div>

@@ -2,7 +2,7 @@ import "./Body.css"
 
 const Body = () => {
   return (
-    <header className="jumbotron">
+    <header className="jumbotron" >
       <div className="container text-center">
         <h1 className="display-4">
          <strong> Hola!{" "}
