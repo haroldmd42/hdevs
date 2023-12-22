@@ -9,9 +9,9 @@ export const Formulario = () => {
   const handleSubmit = (event) => {
     event.preventDefault();
 
-    const serviceId = "service_wz763cj";
-    const templateId = "template_f8fh91c";
-    const apiKey = "T-AyP1aJSn0LBUnbb";
+    const serviceId = "service_cckxpxk";
+    const templateId = "template_788qi7o";
+    const apiKey = "r13jvvvYLedIL2Pie";
 
     emailjs
       .sendForm(serviceId, templateId, reForm.current, apiKey)
@@ -36,11 +36,11 @@ export const Formulario = () => {
           <h1>Contáctame </h1>
         </div>
         <fieldset >
-          <label>Nombre</label>
+          <label>Nombres y Apellidos</label>
           <input name="username" type="text" placeholder="Ingresa tu nombre" required className="label-names" />
         </fieldset>
         <fieldset  >
-          <label >Correo</label>
+          <label >Correo Electrónico</label>
           <input name="email" type="email" placeholder="Ingresa tu correo electrónico " required  className="label-names"/>
         </fieldset>
         <fieldset  >
