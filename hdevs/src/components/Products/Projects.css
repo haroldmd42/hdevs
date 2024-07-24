@@ -1,3 +1,7 @@
+#skills{
+    padding: 0 40px;
+}
+
 #items-skills{
     font-size: 350px;
     text-align: center;
@@ -5,6 +9,7 @@
     color: aliceblue;
     text-shadow: 2px 2px 14px white;
 }
+
 .carousel-caption{
     color: aliceblue;
 }
@@ -21,6 +26,7 @@
    
 }
 .description-skills2{
+    text-align: center;
     color: aliceblue;
     margin-top: 10px;
     margin-bottom: 40px;
@@ -40,7 +46,11 @@
     }
     .description-skills2{
         color: aliceblue;
-        margin: 8px 20px 40px 20px
+        margin: 8px 20px 20px 20px
     }
+    #skills{
+        padding: 0 20px;
+    }
+    
   
 }

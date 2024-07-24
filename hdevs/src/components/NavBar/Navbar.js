@@ -7,7 +7,7 @@ const NavBar = () => {
       <div className="navbarcontains">
         <nav className="navbar navbar-expand-lg navbar-light">
           <a className="navbar-brand" href="#" ><img src='img/logo.png' className="logo" alt="" /></a>
-          <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+          <button className="navbar-toggler" id='button-nav' type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler" > <i class="fa fa-bars" id="bars" aria-hidden="true"></i></span>
           </button>

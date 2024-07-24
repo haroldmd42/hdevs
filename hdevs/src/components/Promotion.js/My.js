@@ -10,13 +10,18 @@ const My = () => {
             <div className="col-md-6">
               <App />
               <p>
-                Soy un desarrollador web full stack y Quality Assurance con experiencia en la creación de aplicaciones web innovadoras. Mi enfoque se centra en interfaces de usuario atractivas y responsivas, utilizando tecnologías como HTML, CSS, JavaScript, React y Angular. También tengo habilidades en el desarrollo del lado del servidor con Node.js y Python, y experiencia en bases de datos como MySQL, MongoDB y PostgreSQL. Comprometido con la calidad y la excelencia en el desarrollo, estoy listo para enfrentar nuevos desafíos. ¡Contáctame para llevar tus ideas al siguiente nivel!</p>
+                Soy un desarrollador web full stack con una sólida experiencia en la creación de aplicaciones web innovadoras. Además, cuento con una amplia trayectoria en análisis de calidad de software y ciberseguridad.
+
+                Domino múltiples lenguajes de programación y tengo experiencia en análisis, ejecución de pruebas manuales y automatizadas para garantizar la calidad del software. También tengo habilidades en ciberseguridad, incluyendo la realización de pruebas y la elaboración de estrategias para asegurar la integridad de tus productos.
+
+                ¡Contáctame para llevar tus ideas al siguiente nivel!</p>
+                
             </div>
             <div className="col-md-6">
               <img src="img/fondogris2.png" alt="Perfil" className="img-fluid" />
               <img src="img/stars.png" alt="Perfil" className="img-fluid2" />
             </div>
-            
+
           </div>
         </div>
       </section>
