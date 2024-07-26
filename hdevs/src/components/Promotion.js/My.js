@@ -8,8 +8,8 @@ const My = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-6">
-              <App />
-              <p>
+            <h1>Conoce un poco sobre mí</h1>
+              <p className="descr">
                 Soy un desarrollador web full stack con una sólida experiencia en la creación de aplicaciones web innovadoras. Además, cuento con una amplia trayectoria en análisis de calidad de software y ciberseguridad.
 
                 Domino múltiples lenguajes de programación y tengo experiencia en análisis, ejecución de pruebas manuales y automatizadas para garantizar la calidad del software. También tengo habilidades en ciberseguridad, incluyendo la realización de pruebas y la elaboración de estrategias para asegurar la integridad de tus productos.
