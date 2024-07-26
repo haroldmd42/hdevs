@@ -25,6 +25,15 @@
     border-radius: 12px;
     border: 1px solid rgba(255,255,255, 0.255)
   }
+  .banner-image5 {
+    background-image: url(./images/projecto5.png);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid rgba(255,255,255, 0.255)
+  }
   .banner-image2 {
     background-image: url(./images/projecto2.png);
     background-position: center;

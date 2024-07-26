@@ -16,10 +16,26 @@ const Works = () => {
           <button type="button" data-bs-target="#carouselExampleDark1" data-bs-slide-to="1" aria-label="Slide 2"></button>
           <button type="button" data-bs-target="#carouselExampleDark1" data-bs-slide-to="2" aria-label="Slide 3"></button>
           <button type="button" data-bs-target="#carouselExampleDark1" data-bs-slide-to="3" aria-label="Slide 4"></button>
+          <button type="button" data-bs-target="#carouselExampleDark1" data-bs-slide-to="4" aria-label="Slide 5"></button>
+
 
         </div>
         <div className="carousel-inner" >
-          <div className="carousel-item active" data-bs-interval="0.1">
+        <div className="carousel-item active" data-bs-interval="0.1">
+            <div class="container-card">
+              <div class="wrapper-card">
+                <div class="banner-image5"> </div>
+                <h2>Herramientas y juegos</h2>
+                <p>Herramientas y Recursos útiles para diversas tareas, creados con React.
+
+Juegos y Entretenimiento interactivo para todas las edades, desarrollado con React.</p>
+              </div>
+              <div class="button-wrapper">
+                <a className="links-git" href="https://my-portafolio-apps.vercel.app/" target="_blank"><button class="btn outline">VISUALIZAR</button></a> 
+              </div>
+            </div>
+          </div>
+          <div className="carousel-item" data-bs-interval="10">
             <div class="container-card">
               <div class="wrapper-card">
                 <div class="banner-image"> </div>
