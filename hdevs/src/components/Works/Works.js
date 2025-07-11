@@ -25,13 +25,13 @@ const Works = () => {
             <div class="container-card">
               <div class="wrapper-card">
                 <div class="banner-image5"> </div>
-                <h2>Herramientas y juegos</h2>
+                <h2>Herramientas</h2>
                 <p>Herramientas y Recursos útiles para diversas tareas, creados con React.
 
-Juegos y Entretenimiento interactivo para todas las edades, desarrollado con React.</p>
+Herramientas para entornos de trabajop colaborativo.</p>
               </div>
               <div class="button-wrapper">
-                <a className="links-git" href="https://my-portafolio-apps.vercel.app/" target="_blank"><button class="btn outline">VISUALIZAR</button></a> 
+                <a className="links-git" href="https://haroldmd42.github.io/sprint-points/" target="_blank"><button class="btn outline">VISUALIZAR</button></a> 
               </div>
             </div>
           </div>
