@@ -11,6 +11,8 @@
     "bootstrap": "^5.3.2",
     "emailjs-com": "^3.2.0",
     "express": "^4.18.2",
+    "gh-pages": "^6.3.0",
+    "lucide-react": "^1.57.0",
     "nodemailer": "^6.9.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -19,11 +21,14 @@
     "sweetalert": "^2.1.2",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://haroldmd42.github.io/hdevs",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -42,5 +47,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.30",
+    "tailwindcss": "^3.4.19"
   }
 }
